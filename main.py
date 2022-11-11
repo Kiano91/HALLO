@@ -1,7 +1,7 @@
 print("hellow kiano")
-print("                                                                                                     
+print("                                                                                                 
 
-                                                                                                    
+                                                                                                   
 
                                     :::::::::.                                                      
 
